@@ -20,7 +20,7 @@ I turn ideas into **modern, scalable, and high-performance web applications**.
 
 ## 🌟 About Me
 
-- 🎓 Software Engineering student (Graduating 2026, GPA 3.6/4)  
+- 🎓 Software Engineering student 
 - ⚡ Full-stack enthusiast: React, Next.js, Node.js, Tailwind CSS  
 - 🛠 Freelance-focused: creating apps that clients love  
 - 🧠 Lifelong learner: Python, penetration testing, and modern web tools  
