@@ -47,7 +47,4 @@ Building modern web applications while continuously learning and exploring emerg
   <a href="mailto:frangizaw@gmail.com" title="Email" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50" />
   </a>
-  <a href="https://x.com/yourusername" title="X" style="margin: 0 20px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/x-226603.png" alt="X" width="50" height="50" />
-  </a>
 </div>
