@@ -24,6 +24,7 @@ Building modern web applications while continuously learning and exploring emerg
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=.NET" alt=".NET" title=".NET" width="50" height="50" />
 </div>
 
 ### **Tools**
