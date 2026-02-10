@@ -45,7 +45,7 @@ Building modern web applications while continuously learning and exploring emerg
   <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="mailto:frangizaw@gmail.com" title="Email" style="margin: 0 20px;">
+  <a href="mailto:kenenisagizaw.28@gmail.com" title="Email" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
   </a>
 </div>
