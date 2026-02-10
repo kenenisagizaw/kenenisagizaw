@@ -7,8 +7,7 @@ Building modern web applications while continuously learning and exploring emerg
 
 ## 🚀 Tech Stack  
 
-<div align="left" style="margin: 10px 0;">
-  <strong>Languages, Frameworks & Databases:</strong>
+<div align="left" style="margin: 10px 0; white-space: nowrap;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" height="50" />
@@ -28,7 +27,7 @@ Building modern web applications while continuously learning and exploring emerg
 </div>
 
 ### **Tools**
-<div align="left" style="margin: 10px 0;">
+<div align="left" style="margin: 10px 0; white-space: nowrap;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" height="50" />
