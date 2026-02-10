@@ -7,31 +7,32 @@ Building modern web apps while continuously learning and exploring emerging tech
 
 ## 🚀 Tech Stack  
 
-### **Frontend**  
 <div align="left">
+  <!-- Frontend -->
+  <strong>Frontend:</strong>
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-</div>
+  <br><br>
 
-### **Backend**  
-<div align="left">
+  <!-- Backend -->
+  <strong>Backend:</strong>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" />
-</div>
+  <br><br>
 
-### **Databases**  
-<div align="left">
+  <!-- Databases -->
+  <strong>Databases:</strong>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" />
-</div>
+  <br><br>
 
-### **Tools**  
-<div align="left">
+  <!-- Tools -->
+  <strong>Tools:</strong>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
