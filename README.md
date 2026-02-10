@@ -41,19 +41,16 @@ Building modern web applications while continuously learning and exploring emerg
 ## 📫 Connect With Me  
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />
+  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50" />
   </a>
-  <a href="mailto:frangizaw@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45" style="margin: 0 10px;" />
+  <a href="mailto:frangizaw@gmail.com" title="Email" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50" />
   </a>
-  <a href="https://github.com/Kenenisa-Gizaw" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="margin: 0 10px;" />
+  <a href="https://x.com/yourusername" title="X" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=x" alt="X" width="50" height="50" />
   </a>
-  <a href="https://twitter.com/yourusername" title="Twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" style="margin: 0 10px;" />
-  </a>
-  <a href="https://dev.to/yourusername" title="Dev.to">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="45" height="45" style="margin: 0 10px;" />
+  <a href="https://dev.to/yourusername" title="Dev.to" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="50" height="50" />
   </a>
 </div>
