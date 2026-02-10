@@ -41,16 +41,13 @@ Building modern web applications while continuously learning and exploring emerg
 ## 📫 Connect With Me  
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn" style="margin: 0 15px;">
+  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50" />
   </a>
-  <a href="mailto:frangizaw@gmail.com" title="Email" style="margin: 0 15px;">
+  <a href="mailto:frangizaw@gmail.com" title="Email" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50" />
   </a>
-  <a href="https://x.com/yourusername" title="X" style="margin: 0 15px;">
+  <a href="https://x.com/yourusername" title="X" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=x" alt="X" width="50" height="50" />
-  </a>
-  <a href="https://dev.to/yourusername" title="Dev.to" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="50" height="50" />
   </a>
 </div>
