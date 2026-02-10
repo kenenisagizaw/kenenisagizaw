@@ -34,9 +34,3 @@ Passionate about turning complex problems into **simple, elegant solutions**.
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
-
-## 📈 GitHub Stats
-
-![Kenenisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenenisagizaw&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisagizaw&layout=compact&theme=tokyonight&hide_border=true)
