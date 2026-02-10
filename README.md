@@ -1,7 +1,7 @@
 # 💫 Kenenisa Gizaw  
 **Full-Stack Developer & Software Engineering Student**  
 
-Building modern web applications while expanding my technical expertise through continuous learning and hands-on projects. Passionate about creating clean, efficient solutions and exploring emerging technologies.
+Building modern web apps while continuously learning and exploring emerging technologies. Passionate about creating clean, efficient solutions and hands-on projects.
 
 ---
 
@@ -44,14 +44,14 @@ Building modern web applications while expanding my technical expertise through 
 ## 📫 Connect With Me  
 
 <div align="left">
-  <a href="https://linkedin.com/in/kenenisa-gizaw">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
+  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:frangizaw@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" />
+  <a href="mailto:frangizaw@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/Kenenisa-Gizaw">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <a href="https://github.com/Kenenisa-Gizaw" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </div>
 
