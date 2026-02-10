@@ -1,8 +1,8 @@
 # 💫 Kenenisa Gizaw  
 **Full-Stack Developer | MERN & Modern Web Apps**  
 
-Crafting scalable, high-performance web applications with clean architecture and intuitive UX.  
-*Turning complex challenges into elegant, impactful solutions.*  
+A **passionate learner and problem solver**, I love exploring new technologies, mastering modern web development, and turning complex challenges into clean, scalable solutions.  
+*Always curious, always building, always improving.*  
 
 ---
 
@@ -56,5 +56,3 @@ Crafting scalable, high-performance web applications with clean architecture and
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-
