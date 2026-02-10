@@ -43,17 +43,6 @@ Crafting scalable, high-performance web applications with clean architecture and
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  
-![Kenenisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisagizaw&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisagizaw&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect  
 
 <div align="left">
@@ -68,7 +57,4 @@ Crafting scalable, high-performance web applications with clean architecture and
   </a>
 </div>
 
----
-
-> *"Good software is built with clean code, great architecture, and thoughtful design."*
 
