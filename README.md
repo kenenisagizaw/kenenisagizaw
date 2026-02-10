@@ -51,8 +51,8 @@ Building modern web applications while continuously learning and exploring emerg
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenenisa-Gizaw&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisa-Gizaw&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenenisagizaw&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisagizaw&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
