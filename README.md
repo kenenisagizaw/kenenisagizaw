@@ -5,7 +5,7 @@ Building modern web applications while continuously learning and exploring emerg
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 <div align="left" style="margin: 10px 0; white-space: nowrap;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" height="50" />
