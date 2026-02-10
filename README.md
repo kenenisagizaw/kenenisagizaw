@@ -23,8 +23,8 @@ Building modern web applications while continuously learning and exploring emerg
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" width="50" height="50" />
 </div>
 
 ### **Databases**
@@ -42,17 +42,7 @@ Building modern web applications while continuously learning and exploring emerg
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50" />
-</div>
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenenisagizaw&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisagizaw&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -69,8 +59,10 @@ Building modern web applications while continuously learning and exploring emerg
   <a href="https://github.com/Kenenisa-Gizaw" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="margin: 0 10px;" />
   </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Kenenisa-Gizaw&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://twitter.com/yourusername" title="Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://dev.to/yourusername" title="Dev.to">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="45" height="45" style="margin: 0 10px;" />
+  </a>
 </div>
