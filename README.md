@@ -39,11 +39,11 @@ Building modern web applications while continuously learning and exploring emerg
 <div align="left" style="margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50" />
 </div>
 
 ---
@@ -69,21 +69,8 @@ Building modern web applications while continuously learning and exploring emerg
   <a href="https://github.com/Kenenisa-Gizaw" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="margin: 0 10px;" />
   </a>
-  <a href="https://twitter.com/yourusername" title="Twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" style="margin: 0 10px;" />
-  </a>
-  <a href="https://dev.to/yourusername" title="Dev.to">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="45" height="45" style="margin: 0 10px;" />
-  </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Kenenisa-Gizaw&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
-
----
-
-<div align="center">
-  <i>⚡ Always learning, always building!</i>
-</div>
-
