@@ -47,8 +47,8 @@ Crafting scalable, high-performance web applications with clean architecture and
 
 <div align="center">
   
-![Kenenisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Kenenisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisagizaw&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisagizaw&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
