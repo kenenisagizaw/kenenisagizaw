@@ -48,6 +48,7 @@ Building modern web applications while continuously learning and exploring emerg
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50" />
   </a>
   <a href="https://x.com/yourusername" title="X" style="margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=x" alt="X" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/X_Logo_2023.svg" alt="X" width="50" height="50" />
   </a>
 </div>
+
