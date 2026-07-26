@@ -42,7 +42,7 @@ Building modern web applications while continuously learning and exploring emerg
 ## 📫 Connect With Me  
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/kenenisa-gizaw" title="LinkedIn" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/kenenisa-gizaw-52ba03367" title="LinkedIn" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:kenenisagizaw.28@gmail.com" title="Email" style="margin: 0 20px;">
