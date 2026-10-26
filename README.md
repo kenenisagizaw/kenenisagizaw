@@ -1,5 +1,5 @@
 # 💫 Kenenisa Gizaw  
-**Web Developer & Software Engineering**  
+**Web Developer & Software Engineering Graduate**  
 
 Building modern web applications while continuously learning and exploring emerging technologies. Passionate about creating clean, efficient solutions through hands-on projects.
 
